@@ -1,6 +1,6 @@
 {
-  "name": "tsimp",
-  "version": "2.0.11",
+  "name": "@digicatapult/tsimp",
+  "version": "2.0.12",
   "license": "BlueOak-1.0.0",
   "files": [
     "dist"
@@ -48,7 +48,7 @@
     "presnap": "npm run prepare",
     "snap": "tap",
     "test": "tap",
-    "postversion": "npm publish",
+    "postversion": "npm publish --access public",
     "prepublishOnly": "git push origin --follow-tags",
     "typedoc": "typedoc"
   },

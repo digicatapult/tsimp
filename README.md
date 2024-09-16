@@ -1,3 +1,5 @@
+**Note: this library has been forked from https://github.com/tapjs/tsimp in order to publish a version of `tsimp` that works with `typescript` `v5.6.2` (see https://github.com/tapjs/tsimp/issues/29). There is no intent to maintain this fork at this stage and this fork will be deleted once the aforementioned issue is resolved.**
+
 # tsimp 😈
 
 A TypeScript IMPort loader for Node.js
