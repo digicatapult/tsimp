@@ -48,7 +48,7 @@
     "presnap": "npm run prepare",
     "snap": "tap",
     "test": "tap",
-    "postversion": "npm publish",
+    "postversion": "npm publish --access public",
     "prepublishOnly": "git push origin --follow-tags",
     "typedoc": "typedoc"
   },
